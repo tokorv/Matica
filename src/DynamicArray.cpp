@@ -1,0 +1,6 @@
+
+class DynamicArray {
+    void *test;
+
+
+};
