@@ -1,7 +1,7 @@
 # Matica
 A basic and easy to use C++ Data Structures library.
 
-Created by: @tokorv and @WillTheDeveloper
+Created by: [@tokorv](https://github.com/tokorv) and [@WillTheDeveloper](https://github.com/WillTheDeveloper)
 
 ### Todo
 
