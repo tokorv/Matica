@@ -2,6 +2,9 @@
 A basic and easy to use C++ Data Structures library.
 
 ### Todo
+
+*Can be found in active project inside this repo*
+
 - Logo
 - Basic libraries:
   - Dynamic Array
