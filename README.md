@@ -1,2 +1,2 @@
 # Matica
-A C++ Mathematics Library for cool kids.
+A basic and easy to use C++ Data Structures library.
